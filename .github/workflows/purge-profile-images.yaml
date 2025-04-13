@@ -1,3 +1,5 @@
+name: Purge Profile Images
+
 on:
   workflow_dispatch:
 
